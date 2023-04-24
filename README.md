@@ -2,9 +2,8 @@
 - ✨ Back-End Developer 
 - ✨ Fron-End Developer 
 
- [![Linkedin Follow](https://img.shields.io/linkedin/follow/fernanda-nogueira=96?style=social)]([https://twitter.com/magnokf](https://www.linkedin.com/in/fernanda-nogueira96/))
-
 - 📫 How to reach me: fernanda.nogueira96@hotmail.com
+- @ Website : www.upyouridea.com.br
 
 
 #
