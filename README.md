@@ -1,12 +1,10 @@
-### Hi there, I´m Magno Kelly 👋 - 🌱 I'm Software Engineering
+### Hi there, I´m Fernanda Nogueira 👋 - 🌱 I'm Software Engineering
 - ✨ Back-End Developer 
 - ✨ Fron-End Developer 
 
-![magnokf's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnokf&show_icons=true&theme=github_dark)
+ [![Linkedin Follow](https://img.shields.io/linkedin/follow/fernanda-nogueira=96?style=social)]([https://twitter.com/magnokf](https://www.linkedin.com/in/fernanda-nogueira96/))
 
-[![Meu Perfil RocketSeat](https://img.shields.io/badge/Meu%20Perfil-Rocketseat-brightgreen)](https://app.rocketseat.com.br/me/magno-kelly-felipe-03653) ![GitHub followers](https://img.shields.io/github/followers/magnokf?logo=GitHub&logoColor=green&style=social) [![Twitter Follow](https://img.shields.io/twitter/follow/magnokf?style=social)](https://twitter.com/magnokf)
-
-- 📫 How to reach me: mkfelipe.rj@gmail.com
+- 📫 How to reach me: fernanda.nogueira96@hotmail.com
 
 
 #
